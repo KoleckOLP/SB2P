@@ -1,7 +1,7 @@
 # SB2P
 SimBabe 2 png extractor
 
-![game logo](promo\s.png)
+![game logo](promo/s.png)
 
 SimBabe 2 is a game by Nostromo released in 2007.
 
