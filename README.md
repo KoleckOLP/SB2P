@@ -13,5 +13,5 @@ so I wrote a simple script to extract them,<br>
 if you wanted them you are welcome.
 
 If you want to extract files from SimBabe 1 it's much easier and my script is not required<br>
-just rename .p files to .png (sprites)
+just rename .p files to .png (sprites)<br>
 and .t file to .txt (utf-8 encoded text)
